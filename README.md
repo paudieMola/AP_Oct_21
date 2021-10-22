@@ -3,4 +3,6 @@ New line added.
 
 Change made in branch dazz_feat to provoke conflict.
 
-Practice for stashing
+Practice for stashing.
+
+Changes made as collaborator.
