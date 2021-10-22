@@ -1,5 +1,5 @@
 This is the readme file for the tutorial repository.
 New line added.
-Change added in dazz_feature branch.
+Change made in branch dazz_feat to provoke conflict.
 
 
